@@ -1,0 +1,10 @@
+/home/arshadnazeer/Google Drive/programs/languages/c#/sourcecode/designpatterns/visitor/bin/Debug/netcoreapp2.0/visitor.deps.json
+/home/arshadnazeer/Google Drive/programs/languages/c#/sourcecode/designpatterns/visitor/bin/Debug/netcoreapp2.0/visitor.runtimeconfig.json
+/home/arshadnazeer/Google Drive/programs/languages/c#/sourcecode/designpatterns/visitor/bin/Debug/netcoreapp2.0/visitor.runtimeconfig.dev.json
+/home/arshadnazeer/Google Drive/programs/languages/c#/sourcecode/designpatterns/visitor/bin/Debug/netcoreapp2.0/visitor.dll
+/home/arshadnazeer/Google Drive/programs/languages/c#/sourcecode/designpatterns/visitor/bin/Debug/netcoreapp2.0/visitor.pdb
+/home/arshadnazeer/Google Drive/programs/languages/c#/sourcecode/designpatterns/visitor/obj/Debug/netcoreapp2.0/visitor.csproj.CoreCompileInputs.cache
+/home/arshadnazeer/Google Drive/programs/languages/c#/sourcecode/designpatterns/visitor/obj/Debug/netcoreapp2.0/visitor.AssemblyInfoInputs.cache
+/home/arshadnazeer/Google Drive/programs/languages/c#/sourcecode/designpatterns/visitor/obj/Debug/netcoreapp2.0/visitor.AssemblyInfo.cs
+/home/arshadnazeer/Google Drive/programs/languages/c#/sourcecode/designpatterns/visitor/obj/Debug/netcoreapp2.0/visitor.dll
+/home/arshadnazeer/Google Drive/programs/languages/c#/sourcecode/designpatterns/visitor/obj/Debug/netcoreapp2.0/visitor.pdb

@@ -1,0 +1,10 @@
+/home/arshadnazeer/Google Drive/programs/languages/c#/sourcecode/designpatterns/adapter/bin/Debug/netcoreapp2.0/adapter.deps.json
+/home/arshadnazeer/Google Drive/programs/languages/c#/sourcecode/designpatterns/adapter/bin/Debug/netcoreapp2.0/adapter.runtimeconfig.json
+/home/arshadnazeer/Google Drive/programs/languages/c#/sourcecode/designpatterns/adapter/bin/Debug/netcoreapp2.0/adapter.runtimeconfig.dev.json
+/home/arshadnazeer/Google Drive/programs/languages/c#/sourcecode/designpatterns/adapter/bin/Debug/netcoreapp2.0/adapter.dll
+/home/arshadnazeer/Google Drive/programs/languages/c#/sourcecode/designpatterns/adapter/bin/Debug/netcoreapp2.0/adapter.pdb
+/home/arshadnazeer/Google Drive/programs/languages/c#/sourcecode/designpatterns/adapter/obj/Debug/netcoreapp2.0/adapter.csproj.CoreCompileInputs.cache
+/home/arshadnazeer/Google Drive/programs/languages/c#/sourcecode/designpatterns/adapter/obj/Debug/netcoreapp2.0/adapter.AssemblyInfoInputs.cache
+/home/arshadnazeer/Google Drive/programs/languages/c#/sourcecode/designpatterns/adapter/obj/Debug/netcoreapp2.0/adapter.AssemblyInfo.cs
+/home/arshadnazeer/Google Drive/programs/languages/c#/sourcecode/designpatterns/adapter/obj/Debug/netcoreapp2.0/adapter.dll
+/home/arshadnazeer/Google Drive/programs/languages/c#/sourcecode/designpatterns/adapter/obj/Debug/netcoreapp2.0/adapter.pdb
